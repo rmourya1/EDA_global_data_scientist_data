@@ -1,1 +1,1 @@
-# EDA_global_data_scientist_data
+Global data scientist data is analysed in this implementation using jupyter notebook (Google Colab).
