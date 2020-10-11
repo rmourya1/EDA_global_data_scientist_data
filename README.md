@@ -1,1 +1,1 @@
-Global data scientist data is analysed in this implementation using jupyter notebook (Google Colab).
+Global Data Scientist data is analysed in this implementation using jupyter notebook (Google Colab).
